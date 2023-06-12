@@ -1,0 +1,10 @@
+* defrec
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/stylewarning/defrec.git   |
+| commit  | e8309d4  |
+| systems | defrec |
+|---------+-------------------------------------------|
+
